@@ -1,0 +1,13 @@
+
+server:
+  port: 8088
+spring:
+  application:
+      name: user-consumer
+
+
+
+eureka:
+  client:
+     service-url:
+      defaultZone: http://120.77.219.194:10086/eureka
