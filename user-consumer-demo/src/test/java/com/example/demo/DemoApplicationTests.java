@@ -12,6 +12,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		new Object();
+		new Object();
 	}
 
 }
