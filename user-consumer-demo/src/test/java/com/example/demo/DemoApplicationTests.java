@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		new Object();
 		new Object();
+		new Object();
 	}
 
 }
